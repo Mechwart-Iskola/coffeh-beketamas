@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import PopularCard from '../popularCard/popularCard'
+import PopularCard from '../popularCard/PopularCard'
 import './popular.css'
 
 export type Popular = {
